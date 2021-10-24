@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42bdb6cb-8ac0-47a4-b99c-4e260afe3342" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_1/Arr_sortInc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_1/Even_or_odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/ArrReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/EzPuzzle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/GrossSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/HighestAverageBtwArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/IsArrIncSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/MaxInArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/PrintIncSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/PrintNumsDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/PrintNumsInc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/PrintProdSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/ProductTableOfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/RandArr_plus_replaceOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_3/Concant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_3/IsEqualIgnCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_3/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_3/OnlyUniqueChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_3/SimCharCheckForStrs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_3/StrWithEvenId.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zw6yUjLG0smJgEc9kkyArEBkvT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="16" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.OnlyUniqueChars">
+    <configuration name="Concant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.Concant" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsEqualIgnCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.IsEqualIgnCase" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlyUniqueChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.OnlyUniqueChars" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimCharCheckForStrs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.SimCharCheckForStrs" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrWithEvenId" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.StrWithEvenId" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OnlyUniqueChars" />
+        <item itemvalue="Application.SimCharCheckForStrs" />
+        <item itemvalue="Application.StrWithEvenId" />
+        <item itemvalue="Application.IsEqualIgnCase" />
+        <item itemvalue="Application.Concant" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42bdb6cb-8ac0-47a4-b99c-4e260afe3342" name="Changes" comment="" />
+      <created>1635047058516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635047058516</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
