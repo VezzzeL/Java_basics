@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42bdb6cb-8ac0-47a4-b99c-4e260afe3342" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_1/Arr_sortInc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_1/Even_or_odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/ArrReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/EzPuzzle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/GrossSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/HighestAverageBtwArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/IsArrIncSeq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/MaxInArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/PrintIncSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/PrintNumsDec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/PrintNumsInc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/PrintProdSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/ProductTableOfNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_2/RandArr_plus_replaceOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_3/Concant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_3/IsEqualIgnCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_3/IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_3/OnlyUniqueChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_3/SimCharCheckForStrs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_3/StrWithEvenId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
