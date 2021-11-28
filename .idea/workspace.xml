@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42bdb6cb-8ac0-47a4-b99c-4e260afe3342" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_10/SQL_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_7_8/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_7_8/BlueRayDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_7_8/Catalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_7_8/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_7_8/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_7_8/Europe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_7_8/Gradebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_7_8/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_7_8/Notepad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_7_8/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_9/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_9/MyThreadPoolExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Lesson_9/Repeat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/Lesson_3/OnlyUniqueChars.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +48,15 @@
     <property name="jdk.selected.JAVA_MODULE" value="16" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.OnlyUniqueChars">
-    <configuration name="Concant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_3.Concant" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java_basics\Java_basics\Homework\src\Lesson_11" />
+      <recent name="D:\Java_basics\Java_basics\Homework\src\Lesson_10" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Notepad">
+    <configuration name="IsEqualIgnCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.IsEqualIgnCase" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
@@ -47,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsEqualIgnCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_3.IsEqualIgnCase" />
+    <configuration name="Notepad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_7_8.Notepad" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_3.*" />
+          <option name="PATTERN" value="Lesson_7_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Notepad" />
         <item itemvalue="Application.OnlyUniqueChars" />
         <item itemvalue="Application.SimCharCheckForStrs" />
         <item itemvalue="Application.StrWithEvenId" />
         <item itemvalue="Application.IsEqualIgnCase" />
-        <item itemvalue="Application.Concant" />
       </list>
     </recent_temporary>
   </component>
@@ -130,5 +151,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
