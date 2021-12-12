@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42bdb6cb-8ac0-47a4-b99c-4e260afe3342" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="42bdb6cb-8ac0-47a4-b99c-4e260afe3342" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +29,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="16" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JAVA_Prac" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Homework/src/Lesson_12" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java_basics\Java_basics\Homework\src\Lesson_12" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java_basics\Java_basics\Homework\src\Lesson_11" />
       <recent name="D:\Java_basics\Java_basics\Homework\src\Lesson_10" />
