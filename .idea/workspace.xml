@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="16" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Homework/src/Lesson_12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Practicing" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -40,13 +40,13 @@
       <recent name="D:\Java_basics\Java_basics\Homework\src\Lesson_10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HomeworkTask11">
-    <configuration name="HomeworkTask11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_12.HomeworkTask11" />
+  <component name="RunManager" selected="Application.Task5">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_19.Task1" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_12.*" />
+          <option name="PATTERN" value="Lesson_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Notepad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_7_8.Notepad" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_19.Task2" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_7_8.*" />
+          <option name="PATTERN" value="Lesson_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnlyUniqueChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_3.OnlyUniqueChars" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_19.Task3" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_3.*" />
+          <option name="PATTERN" value="Lesson_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimCharCheckForStrs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_3.SimCharCheckForStrs" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_19.Task4" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_3.*" />
+          <option name="PATTERN" value="Lesson_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrWithEvenId" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_3.StrWithEvenId" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_19.Task5" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_3.*" />
+          <option name="PATTERN" value="Lesson_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HomeworkTask11" />
-        <item itemvalue="Application.Notepad" />
-        <item itemvalue="Application.OnlyUniqueChars" />
-        <item itemvalue="Application.SimCharCheckForStrs" />
-        <item itemvalue="Application.StrWithEvenId" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
